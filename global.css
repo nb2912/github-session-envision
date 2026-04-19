@@ -1,9 +1,7 @@
-body{
-    background-color: black;
-    font-family: Arial, sans-serif;
-}
+
 h1{
-    background-color: red;
-    color: white;
-    text-align: center;
+    color: aqua;
+}
+body{
+    background-color: teal;
 }
