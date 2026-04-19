@@ -1,20 +1,7 @@
-h1 {
-    color: blue;
-    text-align: center;
-}
-h2{
-    color: yellow;
-    background-color: aqua;
-    font: 20;
-    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
-    text-align: left;
-    
-}
-h3{
-    color: green;
-    background-color: yellow;
-    font: 20;
-    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
-    text-align: left;
 
+h1{
+    color: aqua;
+}
+body{
+    background-color: teal;
 }
